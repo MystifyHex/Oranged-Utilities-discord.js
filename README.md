@@ -1,2 +1,2 @@
 # Oranged Utilities
- The offical Oranged Utilities discord.js bot
+ Discord.js tutorials of Oranged Utilities
